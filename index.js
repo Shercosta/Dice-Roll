@@ -6,17 +6,17 @@ function diceRoll1(){
 
   var pngName = ""
   if (randomNumber[0] == 1){
-    pngName = "Images/dice1.png"
+    pngName = "images/dice1.png"
   } else if (randomNumber[0] == 2){
-    pngName = "Images/dice2.png"
+    pngName = "images/dice2.png"
   } else if (randomNumber[0] == 3){
-    pngName = "Images/dice3.png"
+    pngName = "images/dice3.png"
   } else if (randomNumber[0] == 4){
-    pngName = "Images/dice4.png"
+    pngName = "images/dice4.png"
   } else if (randomNumber[0] == 5){
-    pngName = "Images/dice5.png"
+    pngName = "images/dice5.png"
   } else if (randomNumber[0] == 6){
-    pngName = "Images/dice6.png"
+    pngName = "images/dice6.png"
   }
 
   return pngName
@@ -29,17 +29,17 @@ function diceRoll2(){
 
   var pngName = ""
   if (randomNumber[1] == 1){
-    pngName = "Images/dice1.png"
+    pngName = "images/dice1.png"
   } else if (randomNumber[1] == 2){
-    pngName = "Images/dice2.png"
+    pngName = "images/dice2.png"
   } else if (randomNumber[1] == 3){
-    pngName = "Images/dice3.png"
+    pngName = "images/dice3.png"
   } else if (randomNumber[1] == 4){
-    pngName = "Images/dice4.png"
+    pngName = "images/dice4.png"
   } else if (randomNumber[1] == 5){
-    pngName = "Images/dice5.png"
+    pngName = "images/dice5.png"
   } else if (randomNumber[1] == 6){
-    pngName = "Images/dice6.png"
+    pngName = "images/dice6.png"
   }
 
   return pngName
