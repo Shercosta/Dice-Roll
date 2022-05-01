@@ -1,4 +1,3 @@
-alert("Changed")
 var randomNumber = [6,6]
 
 function diceRoll1(){
